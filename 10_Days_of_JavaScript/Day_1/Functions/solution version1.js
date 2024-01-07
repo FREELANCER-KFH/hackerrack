@@ -10,4 +10,4 @@ function factorial(n){
 }
 
 // Test
-factorial(4)
+console.log(factorial(4)) // 24
