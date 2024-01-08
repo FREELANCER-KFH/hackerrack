@@ -4,9 +4,11 @@ function main() {
     const PI = Math.PI
     
     // Print the area of the circle:
-    console.log(PI*(r**2))
+    const area = PI*r**2
+    console.log(area)
     // Print the perimeter of the circle:
-    console.log(2*PI*r)
+    const perimeter = 2*PI*r
+    console.log(perimeter)
 }
 
 main()
